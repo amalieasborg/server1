@@ -1,0 +1,6 @@
+1234
+app.post('jsonData',(req,res)=>{
+    const recievedData=req.body;
+    res.send();
+
+})
